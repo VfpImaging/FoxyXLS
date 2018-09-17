@@ -26,13 +26,13 @@ Only 16 basic Excel colors available
 
 
 Additional information on BIFF format and creating XLS files:
-Serhiy Perevoznik C# class to create XLS
-Document 'Open Office Excel file format'
-Document 'MS Excel 97-2007 binary file format specification'
+Serhiy Perevoznik C# class to create XLS http://delphi32.blogspot.com.br/2011/06/generate-excel-files-without-using.html
+Document 'Open Office Excel file format' http://www.openoffice.org/sc/excelfileformat.pdf
+Document 'MS Excel 97-2007 binary file format specification' http://download.microsoft.com/download/0/B/E/0BE8BDD7-E5E8-422A-ABFD-4342ED7AD886/Excel97-2007BinaryFileFormat(xls)Specification.pdf
 
 
 Special thanks to:
-Serhiy Perevoznik for his great class
+Serhiy Perevoznik for his great class http://delphi32.blogspot.com.br/2011/06/generate-excel-files-without-using.html
 
 
 Excel is a registered trademark of Microsoft Corporation.
