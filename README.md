@@ -1,5 +1,5 @@
 # FoxyXLS
-Visual FoxPro class to geneate pure XLS files using the BIFF3 file format.
+Visual FoxPro class to generate pure XLS files using the BIFF3 file format.
 FoxyXLS is a free class that allows Visual FoxPro 9 users to create pure XLS files without the need of having MS-OFFICE or OPENOFFICE installed. It does not use any kind of automation. 
 
 FoxyXLS creates XLS files in the BIFF3 file format directly.
